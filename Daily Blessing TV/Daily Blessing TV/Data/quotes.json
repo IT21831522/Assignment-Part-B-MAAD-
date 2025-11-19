@@ -1,0 +1,77 @@
+[
+    {
+        "text": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "category": "motivation"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "category": "work"
+    },
+    {
+        "text": "Peace begins with a smile.",
+        "author": "Mother Teresa",
+        "category": "peace"
+    },
+    {
+        "text": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "category": "inspiration"
+    },
+    {
+        "text": "In the middle of every difficulty lies opportunity.",
+        "author": "Albert Einstein",
+        "category": "wisdom"
+    },
+    {
+        "text": "The only limit to our realization of tomorrow is our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "category": "motivation"
+    },
+    {
+        "text": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "category": "happiness"
+    },
+    {
+        "text": "The best way to predict the future is to invent it.",
+        "author": "Alan Kay",
+        "category": "innovation"
+    },
+    {
+        "text": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon",
+        "category": "life"
+    },
+    {
+        "text": "The journey of a thousand miles begins with one step.",
+        "author": "Lao Tzu",
+        "category": "wisdom"
+    },
+    {
+        "text": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky",
+        "category": "motivation"
+    },
+    {
+        "text": "The only person you are destined to become is the person you decide to be.",
+        "author": "Ralph Waldo Emerson",
+        "category": "self-improvement"
+    },
+    {
+        "text": "Everything you've ever wanted is on the other side of fear.",
+        "author": "George Addair",
+        "category": "courage"
+    },
+    {
+        "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "category": "perseverance"
+    },
+    {
+        "text": "The mind is everything. What you think you become.",
+        "author": "Buddha",
+        "category": "mindfulness"
+    }
+]
